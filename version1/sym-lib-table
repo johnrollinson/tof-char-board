@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Analog Switches")(type "Legacy")(uri "/usr/share/kicad/library/dk_Interface-Analog-Switches-Multiplexers-Demultiplexers.lib")(options "")(descr ""))
+)
